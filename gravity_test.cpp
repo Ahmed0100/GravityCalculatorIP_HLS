@@ -1,4 +1,4 @@
-#include "tb.h"
+#include "gravity_test.h"
 #include <stdio.h>
 #include <math.h>
 int main()
